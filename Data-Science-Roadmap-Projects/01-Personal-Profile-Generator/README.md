@@ -9,6 +9,6 @@ Use variables and input in Python.
 - print()
 
 ## Output
-Hello Momina
-You are 20 years old.
-You live in Pakistan
+Hello Momina Zaheer
+You are 20 years old
+You live in Sargodha,Pakistan
