@@ -4,5 +4,5 @@ city = input("Enter your city: ")
 
 print("Hello" , name)
 print("You are", age, "years old")
-print("I live in", city)
+print("You live in", city)
 
